@@ -4,4 +4,4 @@ bzaman.github.com
 ### site
 ----
 
-[badiuzzaman.me](http://badiuzzaman.me/)
+[badiuzzaman.works](http://badiuzzaman.works/)
